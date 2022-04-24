@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HrithikRai
-- 👀 I’m interested in everything related to Data Science
+- 👀 I’m interested in everything related to Data Science esp. Natural Language Processing
 - ✔  [Projects](https://hrithikrai.github.io/Hrithik_Portfolio/)
-- 🌱 I’m currently learning R and Microsoft Azure HDInsight
-- 💞️ I’m looking to collaborate on data science projects using python 
+- 🌱 I’m currently learning CUDA and NLP related tech.
+- 💞️ I’m looking to collaborate on data science projects  
 - 📫 hrithikraisaxena97@gmail.com
 
 <!---
