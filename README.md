@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @HrithikRai
-- 👀 I’m interested in everything related to Data Science esp. Natural Language Processing
-- 🌱 I’m currently learning AWS and Big Data related tech.
-- 💞️ I’m looking to collaborate on data science projects  
-- 📫 hrithikraisaxena97@gmail.com
+# 👋 Hi, I’m @HrithikRai
+I am a Full stack Data scientist with over 4 years of immersive industrial experience. From taking an idea from the proof of concept until production, with holistic collaboration followed by utmost dedication and unwavering commitment to deliver the best product possible under the given resources and time, I find joy in delivering satisfaction..
+
+Wanna know more or want to collaborate? - Visit my portfolio.
 
 <!---
 HrithikRai/HrithikRai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
