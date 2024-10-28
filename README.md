@@ -3,8 +3,7 @@ An experienced AI developer with over four years of expertise in building and de
 machine learning solutions with attention to detail. Proficient in the full AI development lifecycle including system 
 architecture and database design, microservices development and integration and CI/CD pipelines with ability to 
 work effectively in a collaborative environment. Adept at working in dynamic, cross-functional environments 
-having excellent storytelling and communication skills, I am eager to contribute to your pioneering mission of 
-delivering state-of-the-art AI-driven solutions to your clients.
+having excellent storytelling and communication skills.
 
 **SKILLS** 
 
